@@ -2,7 +2,7 @@
 
 🚀 Data Scientist & Developer | 🤖 Artificial Intelligence & Machine Learning Enthusiast | 🎯 Continuous Learner
 
-I work on projects involving **data science, machine learning, and software development**. Check out my best work below!
+I work on projects involving **data science, artificial intelligence, machine learning, and software development**. Check out my best work below!
 
 🔥 Featured Project: FastAPI Backend 🤖
 
